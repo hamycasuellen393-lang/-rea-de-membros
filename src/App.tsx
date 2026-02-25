@@ -49,7 +49,7 @@ export default function App() {
       isLocked: false,
       isBonus: false,
       icon: <BookOpen className="w-6 h-6 text-brand-blue-dark" />,
-      image: "https://res.cloudinary.com/drth8olcl/image/upload/v1772041353/Capa_52_semanas_com_cristo_yqkwjq.png",
+      image: "https://res.cloudinary.com/drth8olcl/image/upload/v1772044324/Capa_52_semanas_com_cristo_nyltxh.jpg",
     },
     {
       id: 2,
@@ -60,7 +60,7 @@ export default function App() {
       isLocked: false,
       isBonus: true,
       icon: <Gamepad2 className="w-6 h-6 text-brand-blue-dark" />,
-      image: "https://res.cloudinary.com/drth8olcl/image/upload/v1772041353/Capa_uno_biblico_ntexck.png",
+      image: "https://res.cloudinary.com/drth8olcl/image/upload/v1772044324/Capa_uno_biblico_a4qdpf.jpg",
     },
     {
       id: 3,
@@ -71,7 +71,7 @@ export default function App() {
       isLocked: false,
       isBonus: true,
       icon: <Heart className="w-6 h-6 text-brand-blue-dark" />,
-      image: "https://res.cloudinary.com/drth8olcl/image/upload/v1772041359/Capa_potinho_da_ora%C3%A7%C3%A3o_bijlcr.png",
+      image: "https://res.cloudinary.com/drth8olcl/image/upload/v1772044324/Capa_potinho_da_ora%C3%A7%C3%A3o_ccohiq.jpg",
     },
     {
       id: 4,
@@ -82,7 +82,7 @@ export default function App() {
       isLocked: false,
       isBonus: true,
       icon: <CheckSquare className="w-6 h-6 text-brand-blue-dark" />,
-      image: "https://res.cloudinary.com/drth8olcl/image/upload/v1772041358/Capa_checklist_minha_semana_com_Jesus_h14j5e.png",
+      image: "https://res.cloudinary.com/drth8olcl/image/upload/v1772044324/Capa_checklist_minha_semana_com_Jesus_t7qzcp.jpg",
     },
     {
       id: 5,
@@ -93,7 +93,7 @@ export default function App() {
       isBonus: false,
       isUpsell: true,
       icon: <Flame className="w-6 h-6 text-orange-500" />,
-      image: "https://res.cloudinary.com/drth8olcl/image/upload/v1772041808/Capa_meu_pequeno_pregador_dhzbsc.png",
+      image: "https://res.cloudinary.com/drth8olcl/image/upload/v1772044324/Capa_meu_pequeno_pregador_jcxw4h.jpg",
     }
   ];
 
